@@ -1,2 +1,6 @@
 # DataScience
-Repository for all datascience project
+Repository for all Data Science project
+
+
+
+
