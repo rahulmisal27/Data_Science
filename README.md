@@ -1,5 +1,5 @@
 # DataScience
-Repository for all Data Science project
+This Repository is about the all Data Science models implemented so far.
 
 
 
